@@ -1,11 +1,11 @@
 {
-  "main.js": "/hn/static/js/main.67e060cb.chunk.js",
-  "main.js.map": "/hn/static/js/main.67e060cb.chunk.js.map",
-  "static/js/1.5d7000d8.chunk.js": "/hn/static/js/1.5d7000d8.chunk.js",
-  "static/js/1.5d7000d8.chunk.js.map": "/hn/static/js/1.5d7000d8.chunk.js.map",
-  "runtime~main.js": "/hn/static/js/runtime~main.ac2d4415.js",
-  "runtime~main.js.map": "/hn/static/js/runtime~main.ac2d4415.js.map",
-  "index.html": "/hn/index.html",
-  "precache-manifest.ab8679c1399f5a362ce2b3b215993b84.js": "/hn/precache-manifest.ab8679c1399f5a362ce2b3b215993b84.js",
-  "service-worker.js": "/hn/service-worker.js"
+  "main.js": "/hn-with-react-redux/static/js/main.e4639a39.chunk.js",
+  "main.js.map": "/hn-with-react-redux/static/js/main.e4639a39.chunk.js.map",
+  "static/js/1.5d7000d8.chunk.js": "/hn-with-react-redux/static/js/1.5d7000d8.chunk.js",
+  "static/js/1.5d7000d8.chunk.js.map": "/hn-with-react-redux/static/js/1.5d7000d8.chunk.js.map",
+  "runtime~main.js": "/hn-with-react-redux/static/js/runtime~main.0c4ecdcf.js",
+  "runtime~main.js.map": "/hn-with-react-redux/static/js/runtime~main.0c4ecdcf.js.map",
+  "index.html": "/hn-with-react-redux/index.html",
+  "precache-manifest.c030537874dee70d631e82235d083a9d.js": "/hn-with-react-redux/precache-manifest.c030537874dee70d631e82235d083a9d.js",
+  "service-worker.js": "/hn-with-react-redux/service-worker.js"
 }
