@@ -29,11 +29,9 @@ class App extends Component {
 
   render() {
     const { stories, hasMoreStores } = this.props;
-    console.log("Props: ", this.fetchStories);
     return (
       <div className="App">
         <Nav />
-        {console.log(stories.length, hasMoreStores)}
         <InfiniteScroll
           dataLength={stories.length}
           next={this.fetchStories}
